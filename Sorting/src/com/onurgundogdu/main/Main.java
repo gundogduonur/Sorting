@@ -1,4 +1,8 @@
-package com.onurgundogdu;
+package com.onurgundogdu.main;
+
+import com.onurgundogdu.sort.BubbleSort;
+import com.onurgundogdu.sort.InsertionSort;
+import com.onurgundogdu.sort.MergeSort;
 
 public class Main {
     public static void main(String[] args) {

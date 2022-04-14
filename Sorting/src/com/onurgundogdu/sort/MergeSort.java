@@ -1,4 +1,4 @@
-package com.onurgundogdu;
+package com.onurgundogdu.sort;
 
 public class MergeSort {
     int begin = 0;
